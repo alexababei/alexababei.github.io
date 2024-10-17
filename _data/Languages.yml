@@ -1,7 +1,7 @@
-subject: Languages
+subject: Idiomas
 listing-order: 7
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Dutch ('*Native*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "German: <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
-  - title: "English: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
+  - title: "Español ('*Nativo*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
+  - title: "Rumano ('*Materno*'): <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
+  - title: "Inglés: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●◐○○</span>"
