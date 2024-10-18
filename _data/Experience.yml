@@ -7,21 +7,21 @@ contents:
     description: |
       Mis roles se dividen en 2 categorías:
         - Administración cola de archivos (MIDDLEWARE)
-            - Herramientas de transmisión de ficheros: Dataone y Spazio
-            - Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
-            - Modificación/eliminado de flujos.
-            - Atención de incidencias y peticiones de clientes.
+          - Herramientas de transmisión de ficheros: Dataone y Spazio
+          - Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
+          - Modificación/eliminado de flujos.
+          - Atención de incidencias y peticiones de clientes.
         - Operador de aplicaciones y sistemas (AO)
-            - Principalmente enfocado en sistemas Linux/Unix
-            - Verificación diaria de aplicativos.
-            - Control de filesystems: find, du, df, Treesize (Windows)
-            - Control de usuarios y contraseñas: LDAP, Keepass, Active directory (Windows)
-            - Certificaciones y claves: cer, pfx, csr
-            - Revisión y mantenimiento sobre logs del sistema: cat, grep, head, tail, vim, Event Viewer (Windows)
-            - Arranque/parada de aplicativos: Jboss, Citrix, IIS (Windows)
-            - Mantenimiento básico de las BBDD: Oracle SQL Developer y SQL Server (Windows)
-            - Incidencias y ticketing: BMC ITSM, Jira, Outlook
-            - Despliegue en aplicativos PRODUCTIVOS y PRE-PRODUCTIVOS: manual o automático (Jenkins)
+          - Principalmente enfocado en sistemas Linux/Unix
+          - Verificación diaria de aplicativos.
+          - Control de filesystems: find, du, df, Treesize (Windows)
+          - Control de usuarios y contraseñas: LDAP, Keepass, Active directory (Windows)
+          - Certificaciones y claves: cer, pfx, csr
+          - Revisión y mantenimiento sobre logs del sistema: cat, grep, head, tail, vim, Event Viewer (Windows)
+          - Arranque/parada de aplicativos: Jboss, Citrix, IIS (Windows)
+          - Mantenimiento básico de las BBDD: Oracle SQL Developer y SQL Server (Windows)
+          - Incidencias y ticketing: BMC ITSM, Jira, Outlook
+          - Despliegue en aplicativos PRODUCTIVOS y PRE-PRODUCTIVOS: manual o automático (Jenkins)
     date: Enero 2022 - Actualidad
   - title: Indra - "Proyecto BBVA"
     role: Técnico de sistemas 24x7 (helpdesk)
